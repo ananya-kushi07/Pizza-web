@@ -1,0 +1,55 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+body{
+    color: black;
+    background-color: azure;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    width:100%;
+    float: right;
+}
+li {
+    float: left;
+}
+
+li a
+{
+   display: block;
+   color: rgb(247, 241, 241);
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+
+}
+
+li a:hover{
+
+    background-color: #f0eaea;
+    color: #000000;
+}
+
+.bgimg-1{
+    margin: auto;
+    background-position: center;
+    background-size: cover;
+    background-image: url("pizzabg.jpg");
+    height: 800px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0,0.2);
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: #f2f2f2;
+    color: black;
+    display: flex;
+}

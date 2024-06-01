@@ -30,7 +30,7 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/pizza-web.git
+    git clone https://github.com/ananya-kushi07/Pizza-web.git
     ```
 2. **Navigate to the project directory**:
     ```bash
